@@ -697,7 +697,7 @@ class _PinCodeTextFieldState extends State<PinCodeTextField>
               color: Theme
                   .of(context)
                   .textTheme
-                  .button!
+                  .labelMedium!
                   .color,
             ),
             children: [
@@ -711,7 +711,7 @@ class _PinCodeTextFieldState extends State<PinCodeTextField>
                   color: Theme
                       .of(context)
                       .textTheme
-                      .button!
+                      .labelMedium!
                       .color,
                 ),
               )
@@ -732,7 +732,7 @@ class _PinCodeTextFieldState extends State<PinCodeTextField>
                 color: Theme
                     .of(context)
                     .textTheme
-                    .button!
+                    .labelMedium!
                     .color),
             children: [
               TextSpan(
@@ -745,7 +745,7 @@ class _PinCodeTextFieldState extends State<PinCodeTextField>
                   color: Theme
                       .of(context)
                       .textTheme
-                      .button!
+                      .labelMedium!
                       .color,
                 ),
               )
